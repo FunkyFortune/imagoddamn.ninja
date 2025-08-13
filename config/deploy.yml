@@ -2,7 +2,7 @@
 service: www_imagoddamn_ninja
 
 # Name of the container image.
-image: FunkyFortune/www_imagoddamn_ninja
+image: funkyfortune/www_imagoddamn_ninja
 
 # Deploy to these servers.
 servers:
